@@ -1,2 +1,2 @@
-# package-template
-Шаблон для нового пакета
+# Package template
+
