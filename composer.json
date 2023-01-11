@@ -1,9 +1,9 @@
 {
-  "name": "fi1a/package-template",
+  "name": "fi1a/_____",
   "type": "library",
-  "description": "Package template",
+  "description": "_____",
   "keywords": [],
-  "homepage": "https://github.com/fi1a/package-template",
+  "homepage": "https://github.com/fi1a/_____",
   "license": "MIT",
   "authors": [
     {
@@ -11,6 +11,7 @@
       "email": "support@fi1a.ru"
     }
   ],
+  "minimum-stability": "dev",
   "require": {
     "php": "^7.3 || ^8"
   },
@@ -29,12 +30,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Fi1a\\PackageTemplate\\": "src"
+      "Fi1a\\_____\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Fi1a\\Unit\\PackageTemplate\\": "tests"
+      "Fi1a\\Unit\\_____\\": "tests"
     }
   },
   "scripts": {
